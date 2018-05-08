@@ -8,9 +8,6 @@
 	height: 500px;
 	padding: 10px;
 }
-h1 h2 h3 h4 h5 {
-	font-family: 'Georgia', Times, Times New Roman, serif;
-}
 
 div {
 	width: 960px;
@@ -18,7 +15,15 @@ div {
 	margin-right: auto;
 	
 }
+h1 {
+	font-family: 'Georgia', Times, Times New Roman, serif;
+}
  
+a {
+	text-decoration: none;
+	color: #cccccc
+}
+
 header {
 	background-color: #ffffff;
 	height: 50px;
@@ -26,6 +31,8 @@ header {
 }
 body {
 	background-color: #dddddd;
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	
 }
 #PictureandText {
 	margin-top: 30px;
