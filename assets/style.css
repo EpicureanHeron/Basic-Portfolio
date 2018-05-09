@@ -29,7 +29,7 @@ h1 {
  
 a {
 	text-decoration: none;
-	color: #cccccc
+	color: #cccccc;
 }
 
 header {
@@ -72,8 +72,9 @@ img {
 }
 .headerlinks {
 	float: right;
-	font-weight: bold;
+	font-size: 15px;
 	padding-top: 30px;
+	color: #cccccc;
 }
 .MainAboutMe {
 	color: #4aaaa5;
@@ -90,6 +91,11 @@ footer {
 	text-align: center;
 	color: #dddddd;
 	padding-top: 15px;
+	position: absolute;
+	left: 0;
+	bottom: 0; 
+	width: 100%;
+
 }
 
 footer div p {
