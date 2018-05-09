@@ -48,12 +48,19 @@ body {
 
 }
 
-img {
+.imgheadshot {
 	width: 150px;
 	height: auto;
 	float: left;
 	padding: 5px;
 	
+}
+
+.imgportfolio {
+	width: 200px;
+	height: auto;
+	
+	padding: 5px;
 }
 
 .name {
