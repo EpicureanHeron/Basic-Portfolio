@@ -57,10 +57,9 @@ body {
 }
 
 .imgportfolio {
-	width: 200px;
+	width: 350px;
 	height: auto;
-	
-	padding: 5px;
+	padding: 20px;
 }
 
 .name {
@@ -133,4 +132,23 @@ textarea {
 	border: none;
 	font-size: 15px;
 	
+}
+
+.floatingtitle {
+	color: #ffffff;
+	background-color: #4aaaa5;
+	height: 10px;
+	font-size: 24px;
+	padding-top: 25px;
+	padding-right: 15px;
+	padding-left: 15px;
+	width: 200px;
+	z-index: 2;
+	
+}
+
+.container {
+	position: relative;
+    text-align: left;
+    color: white;
 }
