@@ -7,6 +7,7 @@
 	margin-bottom: 30px;
 	height: 500px;
 	padding: 10px;
+	line-height: 1.5em;
 }
 
 div {
@@ -17,6 +18,7 @@ div {
 }
 h1 {
 	font-family: 'Georgia', Times, Times New Roman, serif;
+	font-weight: bold;
 }
  
 a {
@@ -58,6 +60,7 @@ img {
 }
 .headerlinks {
 	float: right;
+	font-weight: bold;
 }
 .MainAboutMe {
 	color: #4aaaa5;
