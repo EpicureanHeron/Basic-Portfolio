@@ -97,10 +97,21 @@ footer {
 	text-align: center;
 	color: #dddddd;
 	padding-top: 15px;
+	width: 100%;
+	/*below is for fixed footer */
+
 	/*position: absolute;
 	left: 0;
 	bottom: 0; */
-	width: 100%;
+
+	/* below is for "sticky footer */
+
+	position: -webkit-sticky;
+    position: sticky;
+	left:0;
+	bottom: 0;
+  
+	
 
 }
 
