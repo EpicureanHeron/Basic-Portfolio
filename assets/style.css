@@ -5,7 +5,7 @@
 	background-color: #ffffff;
 	margin-top: 30px;
 	margin-bottom: 30px;
-	/*height: 500px; */
+	/* height: 700px; */
 	padding: 10px; 
 	line-height: 1.5em;
 }
@@ -46,6 +46,11 @@ body {
 #PictureandText {
 	margin-top: 30px;
 
+}
+
+#indexPictureandText {
+	margin-top: 30px;
+	height: 600px;
 }
 
 .imgheadshot {
@@ -115,9 +120,10 @@ footer {
 
 }
 
-footer div p {
+/*footer div p {
 	padding-top: 20px;
 }
+*/
 
 form {
 	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
