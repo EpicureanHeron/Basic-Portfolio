@@ -9,7 +9,7 @@
 	/* height: 700px; */
 	padding: 10px; 
 	line-height: 1.5em;
-
+	font-size: 20px;
 	/* note: I'm making the assumpition that the padding on the left and right should be included in the 960 px calculation. So I am reducing the width to 940 to account for the addtional 10px on each side (total 20px) to make this section 960px*/
 }
 
